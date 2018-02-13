@@ -95,6 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAL\PenaltyCalculationContext.cs" />
+    <Compile Include="DAL\PenaltyCalculationInitializer.cs" />
     <Compile Include="Models\Countries.cs" />
     <Compile Include="Models\Currencies.cs" />
     <Compile Include="Models\Holidays.cs" />
